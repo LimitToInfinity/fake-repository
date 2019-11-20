@@ -8,3 +8,5 @@ Full Screen without losing the panels Alt+Shift+Enter
 Simple search Ctrl+I
 
 Hey this is shortcut. Testing merge conflict.
+Blablablabla == blablabla 
+(RIGHT!)
