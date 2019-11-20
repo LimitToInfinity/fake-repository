@@ -10,3 +10,5 @@ Simple search Ctrl+I
 Hey this is shortcut. Testing merge conflict.
 Blablablabla == blablabla 
 (RIGHT!)
+
+Hey this is from the new branch!
